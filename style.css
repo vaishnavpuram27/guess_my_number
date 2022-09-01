@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap');
 
 * {
-    margin: 0;
-    padding: 0;
+    margin: 1;
+    padding: 1;
     box-sizing: inherit;
 }
 
@@ -98,7 +98,7 @@ h1 {
 .btn {
     border: none;
     background-color: #eee;
-    color: #222;
+    color: #333;
     font-size: 2rem;
     font-family: inherit;
     padding: 2rem 3rem;
